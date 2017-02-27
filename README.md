@@ -3,7 +3,6 @@ NAME OF STUDENT : VIPUL SINGH
 
 ENROLLMENT NUMBER : RIT2015089
 
-SECTION ‘RGIIT’
 
 OPERATING SYSTEM : KALI LINUX 2.0(64 bit)
 
@@ -16,7 +15,13 @@ The csv files are present in Q1 Package folder.
 
 #Command for terminal
 @ Open terminal and type javac Q1.java
+
+
+
 @ Then execute java Q1.
 #Tools:
 Documentation: Used Doxygen for documentation named.
+
+
+
 Class Diagram: Eclipse
